@@ -1,4 +1,4 @@
-# InstaFilter-Processor
+# InstaFilter-Processor (Accepted with 8.5/9)
 UoT - Introduction To Swift Programming Completion Assignment 
 
 ## Review criteria
